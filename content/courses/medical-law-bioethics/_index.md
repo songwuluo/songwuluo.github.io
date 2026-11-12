@@ -4,6 +4,7 @@ title: Medical Law, Bioethics and Healthcare Policy
 date: 2025-01-02
 type: docs
 tags:
+  - Medical Law
   - Course
 ---
 

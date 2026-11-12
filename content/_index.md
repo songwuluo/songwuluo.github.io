@@ -36,6 +36,8 @@ sections:
     content:
       title: Publications
       text: ''
+      sort_by: Weight
+      sort_ascending: true
       filters:
         folders:
           - publications
@@ -51,6 +53,8 @@ sections:
     design:
       view: card
       show_date: false
+      show_read_time: false
+      show_read_more: false
   - block: collection
     id: news
     content:

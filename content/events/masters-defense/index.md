@@ -14,3 +14,5 @@ tags:
 featured: false
 projects: []
 ---
+
+Master's thesis defense presentation, Faculty of Law, Belarusian State University, Minsk, Belarus.

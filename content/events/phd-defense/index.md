@@ -14,3 +14,5 @@ tags:
 featured: false
 projects: []
 ---
+
+Doctoral dissertation defense and research seminar, Graduate School of Law, Dong-A University, Busan, South Korea.
