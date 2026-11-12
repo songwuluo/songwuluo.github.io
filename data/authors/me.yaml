@@ -2,115 +2,68 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Dr. Songwu Luo
+  given: Songwu
+  family: Luo
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "⚖️"
+role: Ph.D. in Law
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Songwu Luo is a legal scholar specializing in medical law, bioethics, and comparative health policy. His first-author research has been published in leading JCR Q1 SSCI journals, including BMC Medical Ethics and Frontiers in Public Health, alongside seven KCI core articles. Bridging clinical nursing and legal doctrine, Songwu is dedicated to advancing patient autonomy and end-of-life decision-making frameworks.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Dong-A University, Busan, South Korea
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:songwuluo@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/songwuluo
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Medical Law
+  - Bioethics
+  - Comparative Health Policy
+  - End-of-Life Decision-Making
+  - Patient Autonomy
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Ph.D. in Law
+    institution: Dong-A University
+    start: 2024-09-01
+    end: 2026-08-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+      Dissertation: A Legal Study on Advance Directives in China. GPA: 4.5/4.5.
+      Advisors: Prof. Dong-Je Cho (Former President of the Korean Land Law Association; Former Vice Dean of Dong-A University Law School; Non-resident Research Fellow at Southwest University of Political Science and Law, China; Chief Representative in Korea of the International Space Cooperation Committee, United Nations World Silk Road Forum, UNWSF) and Prof. Jae-Hyun Cho (Former President of the Korean Constitutional Law Association, a Tier-1 national academic society in South Korea; Director of the Institute for Legal Studies, Dong-A University; Chair of the Department of Law, Graduate School of Dong-A University).
+  - degree: M.A. in Law
+    institution: Belarusian State University
+    start: 2023-09-01
+    end: 2024-06-30
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Thesis: Reform and Improvement of the Legal Framework of the International Monetary System in the Era of Digital Economy.
+      Advisor: Prof. Dr. Funk, Chairman of the International Arbitration Court at the Belarusian Chamber of Commerce and Industry.
+  - degree: B.Sc. in Nursing
+    institution: Xiangxing College, Hunan University of Chinese Medicine
+    start: 2018-09-01
+    end: 2022-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+      Licensed Registered Nurse, People's Republic of China. President of the Student Union (Sept 2020 - May 2021); Student Union Host (Sept 2018 - Sept 2019).
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Outstanding Research Award
+    awarder: Dong-A University
+    date: "2026"
+    icon: hero/trophy
+  - title: Dong-A Centennial Partner Outstanding Foreign International Student Scholarship
+    awarder: Dong-A University
+    date: "2025"
+    icon: hero/trophy
+  - title: National Encouragement Scholarship
+    awarder: Ministry of Education of the People's Republic of China
+    date: "2021"
     icon: hero/trophy
